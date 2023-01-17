@@ -17,14 +17,22 @@
 // @include      /^https?://gv(1|2|3|4|5|6|7|8|9).(com|gay|top|tk|cf|ml|gq|ga|tk|info)./*
 // @include      /^https?://nanying.(com|gay|top|tk|cf|ml|gq|ga|tk|info)./*
 // @include      /^https?://xiaofen.(com|gay|top|tk|cf|ml|gq|ga|tk|info)./*
-// @match        *://\?*tong\?*.*/*
-// @match        *://\?*tong.*/*
+// @match        *://nanyan.*/*
 // @match        *://gtv\?*.*/*
+// @match        *://weitongshipin.*/*
+// @match        *://zhongtongshipin.*/*
+// @match        *://langlangshipin.*/*
+// @match        *://xiaohongshipin.*/*
+// @match        *://danlanshipin.*/*
 // @match        *://gv\?*.*/*
 // @match        *://\?*\gv\?*.*/*
 // @match        *://gay\?*.*/*
-// @match        *://sex\?*.*/*
-// @match        *://www.sex\?*.*/*
+// @match        *://nanying.*/*
+// @match        *://xiaofen.*/*
+// @match        *://\?*tong\?*.*/*
+// @match        *://\?*tong.*/*
+
+
 // @iconURL      https://11.mydrivers.com/m/images/v1/shipin_icon.svg
 // @grant        none
 // ==/UserScript==
