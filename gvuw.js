@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         破解同志成人動作片🔞觀看限制
 // @namespace    http://tampermonkey.net/
-// @version      0.1
+// @version      1.0
 // @license MIT
 // @description  通过 JavaScript 移除观看次数，用于破解部分同志網站（GV）觀看次數的限制
 // @homepage     https://greasyfork.org/zh-CN/scripts/458410
