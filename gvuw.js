@@ -7,16 +7,17 @@
 // @homepage     https://greasyfork.org/zh-CN/scripts/458410
 // @supportURL   https://github.com/beh-willy/gv-watch-unlimited-userscript/issues
 // @author       Lucas
-// @include      /^https?://nanyan.(com|gay|top|tk|cf|ml|gq|ga|tk|info)./*
-// @include      /^https?://gtv(1|2|3|4|5|6|7|8|9).(com|gay|top|tk|cf|ml|gq|ga|tk|info)./*
-// @include      /^https?://weitongshipin.(com|gay|top|tk|cf|ml|gq|ga|tk|info)./*
-// @include      /^https?://zhongtongshipin.(com|gay|top|tk|cf|ml|gq|ga|tk|info)./*
-// @include      /^https?://langlangshipin.(com|gay|top|tk|cf|ml|gq|ga|tk|info)./*
-// @include      /^https?://xiaohongshipin.(com|gay|top|tk|cf|ml|gq|ga|tk|info)./*
-// @include      /^https?://danlanshipin.(com|gay|top|tk|cf|ml|gq|ga|tk|info)./*
-// @include      /^https?://gv(1|2|3|4|5|6|7|8|9).(com|gay|top|tk|cf|ml|gq|ga|tk|info)./*
-// @include      /^https?://nanying.(com|gay|top|tk|cf|ml|gq|ga|tk|info)./*
-// @include      /^https?://xiaofen.(com|gay|top|tk|cf|ml|gq|ga|tk|info)./*
+// @include      /^https?://nanyan.(com|gay|top|tk|cf|ml|gq|ga|tk|info|buzz)./*
+// @include      /^https?://gtv(1|2|3|4|5|6|7|8|9).(com|gay|top|tk|cf|ml|gq|ga|tk|info|buzz)./*
+// @include      /^https?://weitongshipin.(com|gay|top|tk|cf|ml|gq|ga|tk|info|buzz)./*
+// @include      /^https?://zhongtongshipin.(com|gay|top|tk|cf|ml|gq|ga|tk|info|buzz)./*
+// @include      /^https?://langlangshipin.(com|gay|top|tk|cf|ml|gq|ga|tk|info|buzz)./*
+// @include      /^https?://xiaohongshipin.(com|gay|top|tk|cf|ml|gq|ga|tk|info|buzz)./*
+// @include      /^https?://danlanshipin.(com|gay|top|tk|cf|ml|gq|ga|tk|info|buzz)./*
+// @include      /^https?://gv(1|2|3|4|5|6|7|8|9).(com|gay|top|tk|cf|ml|gq|ga|tk|info|buzz)./*
+// @include      /^https?://nanying.(com|gay|top|tk|cf|ml|gq|ga|tk|info|buzz)./*
+// @include      /^https?://xiaofen.(com|gay|top|tk|cf|ml|gq|ga|tk|info|buzz)./*
+// @include      /^https?://fifigv.(com|gay|top|tk|cf|ml|gq|ga|tk|info|buzz)./*
 // @match        *://nanyan.*/*
 // @match        *://gtv\?*.*/*
 // @match        *://weitongshipin.*/*
@@ -31,6 +32,8 @@
 // @match        *://xiaofen.*/*
 // @match        *://\?*tong\?*.*/*
 // @match        *://\?*tong.*/*
+// @match        *://\?*tong.*/*
+// @match        *://fifigv.*/*
 // @iconURL      https://11.mydrivers.com/m/images/v1/shipin_icon.svg
 // @grant        none
 // ==/UserScript==
