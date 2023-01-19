@@ -4,7 +4,6 @@
 支持的网站如下
 
 https://nanyan.gay 和 https://nanyan.tk
-
 https://gtv1.tk 至 https://gtv9.tk （后缀名改成 .cf .ml .gq .ga .tk 都可以用，如 https://gtv1.tk，https://gtv2.tk，https://gtv3.cf 等等...）
 https://gv2003.tk 和 https://gv2005.tk （后缀名改成 .cf .ml .gq .ga .tk 都可以用，如 https://gv2003.tk，https://gv2003.tk，https://gv2005.cf 等等...）
 weitongshipin.com
